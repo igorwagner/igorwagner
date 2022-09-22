@@ -1,4 +1,7 @@
-### Hi there 👋
+## Talk to me 💬
+
+[![Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igorwagner)   [![Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IgorWOliveira)   [![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorwagner.sdo@gmail.com)
+
 
 <!--
 **igorwagner/igorwagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://www.python.org/static/img/python-logo.png -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorwagner&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorwagner&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igorwagner&theme=neon-palenight&hide_border=true)
