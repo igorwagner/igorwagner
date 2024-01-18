@@ -1,7 +1,6 @@
 ### Hi, I'm Igor Wagner! I'm a Data Engineer!!
 <hr>
 
-- 🔭 I’m currently working on [Cortex Intelligence](https://github.com/[prefeiturasp](https://github.com/))
 - 🌱 I’m currently learning [AWS](https://aws.amazon.com/), [Databricks](https://www.databricks.com/) and [Airflow](https://airflow.apache.org/)
 - 🧡 I love Python. Ask me about it!!
 - ⚡ Fun fact: I’m also a Chemical Engineer, but I don’t how to make a bomb 💣 (yet...)
