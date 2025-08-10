@@ -19,8 +19,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: igorwagner
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
       - name: Add Status Text
         run: |
