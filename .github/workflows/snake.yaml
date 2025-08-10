@@ -1,0 +1,33 @@
+name: Generate Snake Animation with Status
+
+on:
+  schedule:
+    - cron: "0 21 * * 5"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: igorwagner
+          outputs: dist/snake.svg
+
+      - name: Add Status Text
+        run: |
+          STATUS="Eating my bugs! 🐍"
+          cp dist/snake.svg dist/snake_with_status.svg
+          sed -i "s|</svg>|<text x='20' y='20' font-size='14' fill='white'>$STATUS</text></svg>|" dist/snake_with_status.svg
+
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update snake with status"
+          add: "dist/snake_with_status.svg"
