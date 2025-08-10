@@ -12,11 +12,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: igorwagner
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: Add Status Text
         run: |
