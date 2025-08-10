@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🛠️ Tools I love: **[Python](https://www.python.org/), [PySpark](https://spark.apache.org/docs/latest/api/python/index.html#), [AWS](https://aws.amazon.com/), [Airflow](https://airflow.apache.org/), [Docker](https://www.docker.com/), and [Pandas](https://pandas.pydata.org/)**.
 - 💬 Ask me about: **optimizing Spark pipelines**, **data lake architectures**, or **cloud-native solutions**.
-- 🎓 Background in Chemical Engineering (but I don’t know how to make a bomb 💣).
+- 🎓 Background in Chemical Engineering — I chose data over labs 😂.
 - 🤝 Always open to collaborating on open-source projects.
 
 ---
@@ -56,4 +56,8 @@
 
 ---
 
-![Snake animation](https://github.com/daniel-oliv3/daniel-oliv3/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Eating%20my%20bugs!-%F0%9F%90%8D-orange?style=flat-square" alt="Eating my bugs badge">
+  <br/>
+  <img src="https://raw.githubusercontent.com/igorwagner/igorwagner/main/dist/snake_with_status.svg" alt="snake animation with status">
+</p>
