@@ -15,11 +15,11 @@ jobs:
         run: mkdir -p dist
 
       - name: Generate Snake SVG with animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v1.5.1
         with:
           github_user_name: igorwagner
           svg_out_path: dist/snake.svg
-          args: --animate --theme neon-palenight
+          args: "--animate --theme neon-palenight"
 
       - name: Add status text to SVG
         run: |
