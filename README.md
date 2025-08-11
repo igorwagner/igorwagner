@@ -59,5 +59,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Eating%20my%20bugs!-%F0%9F%90%8D-orange?style=flat-square" alt="Eating my bugs badge">
   <br/>
-  <img src="https://raw.githubusercontent.com/igorwagner/igorwagner/main/dist/snake_with_status.svg" alt="snake animation with status">
+  <img src="https://raw.githubusercontent.com/igorwagner/igorwagner/output/snake_with_status.svg" alt="snake animation with status" />
 </p>
